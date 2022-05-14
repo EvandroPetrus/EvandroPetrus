@@ -1,4 +1,4 @@
- Bacharelado (em curso) em Ciência da Computação no Centro Universitário IBMR.
+ Bacharelado (em curso) em **Ciência da Computação** no Centro Universitário IBMR.
 
  Começou seus estudos superiores em 2018 à 2021, na área de Medicina, na Argentina, pela Universidade de Buenos Aires.
 Tem experiência como professor de Inglês, mentor de Anatomia e Fisiologia e na área de montagem e manutenção de computadores e dispositivos móveis.
