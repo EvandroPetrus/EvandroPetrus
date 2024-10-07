@@ -16,8 +16,9 @@
 
 ### 💼 Professional Experience
 - **Quest Implementer** at Beyond Skyrim (Freelance)
-- **Fullstack Developer** at Infis Consultoria
-- **Co-Lead Developer** at UNITY NETWORKS (UK) LIMITED
+- **Software Developer II** @ CSG International - current
+- **Fullstack Developer** at Infis Consultoria - 2y
+- **Co-Lead Developer** at UNITY NETWORKS (UK) LIMITED - 2y
 
 ### 🎮 Game Development
 Contributing as a quest implementer for Skyrim mods, blending technical expertise with creative storytelling.
